@@ -1,42 +1,42 @@
-.jbrowse .stop-codon-read-through,
-.jbrowse .plus-stop-codon-read-through,
-.jbrowse .minus-stop-codon-read-through,
-.jbrowse .red-100pct,
-.jbrowse .plus-red-100pct,
-.jbrowse .minus-red-100pct  {
+ .stop-codon-read-through,
+ .plus-stop-codon-read-through,
+ .minus-stop-codon-read-through,
+ .red-100pct,
+ .plus-red-100pct,
+ .minus-red-100pct  {
     background-color: #FF0000;
     border: 1px solid #FF0000;
     height: 100%;
     top: 0%;
 }
 
-.jbrowse .gold-80pct, 
-.jbrowse .plus-gold-80pct, 
-.jbrowse .minus-gold-80pct  {
+ .gold-80pct, 
+ .plus-gold-80pct, 
+ .minus-gold-80pct  {
     background-color: #FFD700;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .goldenrod-60pct, 
-.jbrowse .plus-goldenrod-60pct, 
-.jbrowse .minus-goldenrod-60pct {
+ .goldenrod-60pct, 
+ .plus-goldenrod-60pct, 
+ .minus-goldenrod-60pct {
     height: 60%;
     top: 20%;
     background-color: #DAA520;
 }
 
-.jbrowse .blast-match_part,
-.jbrowse .plus-blast-match_part,
-.jbrowse .minus-blast-match_part {
+ .blast-match_part,
+ .plus-blast-match_part,
+ .minus-blast-match_part {
     height: 40%;
     top: 30%;
     background-color: blue;
 }
 
 
-.jbrowse .blast-hit-20pct  {
+ .blast-hit-20pct  {
     background-color: blue;
     min-width: 1px;
     width: 100%;
@@ -45,91 +45,91 @@
 }
 
 
-.jbrowse .ogs-cds, 
-.jbrowse .plus-ogs-cds, 
-.jbrowse .minus-ogs-cds  {
+ .ogs-cds, 
+ .plus-ogs-cds, 
+ .minus-ogs-cds  {
     background-color: #FFD700;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .ogs-utr, 
-.jbrowse .plus-ogs-utr,
-.jbrowse .five_prime_utr, 
-.jbrowse .plus-five_prime_utr, 
-.jbrowse .minus-five_prime_utr,
-.jbrowse .three_prime_utr, 
-.jbrowse .plus-three_prime_utr, 
-.jbrowse .minus-three_prime_utr,
-.jbrowse .minus-ogs-utr {
+ .ogs-utr, 
+ .plus-ogs-utr,
+ .five_prime_utr, 
+ .plus-five_prime_utr, 
+ .minus-five_prime_utr,
+ .three_prime_utr, 
+ .plus-three_prime_utr, 
+ .minus-three_prime_utr,
+ .minus-ogs-utr {
     height: 60%;
     top: 20%;
     background-color: #DAA520;
 }
 
-.jbrowse .junction-cds, 
-.jbrowse .plus-junction-cds, 
-.jbrowse .minus-junction-cds  {
+ .junction-cds, 
+ .plus-junction-cds, 
+ .minus-junction-cds  {
     background-color: #A921AD;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
-.jbrowse .primary_gene_set-cds, 
-.jbrowse .plus-primary_gene_set-cds, 
-.jbrowse .minus-primary_gene_set-cds  {
+ .primary_gene_set-cds, 
+ .plus-primary_gene_set-cds, 
+ .minus-primary_gene_set-cds  {
     background-color: #21D61F;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .primary_gene_set-utr, 
-.jbrowse .plus-primary_gene_set-utr, 
-.jbrowse .minus-primary_gene_set-utr {
+ .primary_gene_set-utr, 
+ .plus-primary_gene_set-utr, 
+ .minus-primary_gene_set-utr {
     height: 60%;
     top: 20%;
     background-color: #8DB890;
 }
 
-.jbrowse .deprecated_gene_set-cds, 
-.jbrowse .plus-deprecated_gene_set-cds, 
-.jbrowse .minus-deprecated_gene_set-cds  {
+ .deprecated_gene_set-cds, 
+ .plus-deprecated_gene_set-cds, 
+ .minus-deprecated_gene_set-cds  {
     border: 1px solid #555;
     height: 80%;
     top: 10%;
     background-color: #927447;
 }
 
-.jbrowse .deprecated_gene_set-utr, 
-.jbrowse .plus-deprecated_gene_set-utr, 
-.jbrowse .minus-deprecated_gene_set-utr {
+ .deprecated_gene_set-utr, 
+ .plus-deprecated_gene_set-utr, 
+ .minus-deprecated_gene_set-utr {
     height: 60%;
     top: 20%;
     background-color: #D1A666;
 }
 
-.jbrowse .transcriptome-cds,
-.jbrowse .plus-transcriptome-cds,
-.jbrowse .minus-transcriptome-cds  {
+ .transcriptome-cds,
+ .plus-transcriptome-cds,
+ .minus-transcriptome-cds  {
     background-color: #00BFFF;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .transcriptome-utr,
-.jbrowse .plus-transcriptome-utr,
-.jbrowse .minus-transcriptome-utr {
+ .transcriptome-utr,
+ .plus-transcriptome-utr,
+ .minus-transcriptome-utr {
     height: 60%;
     top: 20%;
     background-color: #0086B3;
 }
 
-.jbrowse .transcriptome-match_part,
-.jbrowse .plus-transcriptome-match_part,
-.jbrowse .minus-transcriptome-match_part {
+ .transcriptome-match_part,
+ .plus-transcriptome-match_part,
+ .minus-transcriptome-match_part {
     height: 60%;
     top: 20%;
     background-color: #00BFFF;
@@ -137,237 +137,237 @@
 
 
 
-.jbrowse .blastx, 
-.jbrowse .plus-blastx, 
-.jbrowse .minus-blastx {
+ .blastx, 
+ .plus-blastx, 
+ .minus-blastx {
     height: 60%;
     top: 20%;
     background-color: #A0522D;
 }
-.jbrowse .protein2genome, 
-.jbrowse .plus-protein2genome, 
-.jbrowse .minus-protein2genome {
+ .protein2genome, 
+ .plus-protein2genome, 
+ .minus-protein2genome {
     height: 60%;
     top: 20%;
     background-color: #FFA500;
 }
-.jbrowse .repeat, 
-.jbrowse .plus-repeat, 
-.jbrowse .minus-repeat {
+ .repeat, 
+ .plus-repeat, 
+ .minus-repeat {
     height: 60%;
     top: 20%;
     background-color: #FF0000;
 }
-.jbrowse .est_gff,
-.jbrowse .plus-est_gff,
-.jbrowse .minus-est_gff,
-.jbrowse .est-gff,
-.jbrowse .plus-est-gff,
-.jbrowse .minus-est-gff,
-.jbrowse .est,
-.jbrowse .plus-est, 
-.jbrowse .minus-est {
+ .est_gff,
+ .plus-est_gff,
+ .minus-est_gff,
+ .est-gff,
+ .plus-est-gff,
+ .minus-est-gff,
+ .est,
+ .plus-est, 
+ .minus-est {
     height: 60%;
     top: 20%;
     background-color: #00bfff;
 }
 
 
-.jbrowse .cegma,
-.jbrowse .plus-cegma,
-.jbrowse .minus-cegma {
+ .cegma,
+ .plus-cegma,
+ .minus-cegma {
     height: 60%;
     top: 20%;
     background-color: #99CC00
 }
 
-.jbrowse .alt_gene_set-cds,
-.jbrowse .plus-alt_gene_set-cds,
-.jbrowse .minus-alt_gene_set-cds  {
+ .alt_gene_set-cds,
+ .plus-alt_gene_set-cds,
+ .minus-alt_gene_set-cds  {
     background-color: #DA70D6 ;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .alt_gene_set-utr,
-.jbrowse .plus-alt_gene_set-utr,
-.jbrowse .minus-alt_gene_set-utr {
+ .alt_gene_set-utr,
+ .plus-alt_gene_set-utr,
+ .minus-alt_gene_set-utr {
     height: 60%;
     top: 20%;
     background-color: #8B008B;
 }
 
-.jbrowse .snap,
-.jbrowse .plus-snap,
-.jbrowse .minus-snap {
+ .snap,
+ .plus-snap,
+ .minus-snap {
     height: 60%;
     top: 20%;
     background-color: #99FFCC;
 }
-.jbrowse .snap_UTR,
-.jbrowse .plus-snap_UTR,
-.jbrowse .minus-snap_UTR {
+ .snap_UTR,
+ .plus-snap_UTR,
+ .minus-snap_UTR {
     height: 60%;
     top: 20%;
     background-color: #00CC66;
 }
-.jbrowse .snap_CDS,
-.jbrowse .plus-snap_CDS,
-.jbrowse .minus-snap_CDS {
+ .snap_CDS,
+ .plus-snap_CDS,
+ .minus-snap_CDS {
      height: 80%;
     border: 1px solid #555;
     top: 10%;
     background-color: #99FFCC;
 }
-.jbrowse .augustus,
-.jbrowse .plus-augustus,
-.jbrowse .minus-augustus {
+ .augustus,
+ .plus-augustus,
+ .minus-augustus {
     height: 60%;
     top: 20%;
     background-color: #FFCCFF;
 }
-.jbrowse .augustus_UTR,
-.jbrowse .plus-augustus_UTR,
-.jbrowse .minus-augustus_UTR {
+ .augustus_UTR,
+ .plus-augustus_UTR,
+ .minus-augustus_UTR {
     height: 60%;
     top: 20%;
     background-color: #FF00FF;
 }
-.jbrowse .augustus_CDS,
-.jbrowse .plus-augustus_CDS,
-.jbrowse .minus-augustus_CDS {
+ .augustus_CDS,
+ .plus-augustus_CDS,
+ .minus-augustus_CDS {
     height: 80%;
     top: 10%;
     border: 1px solid #555;
     background-color: #FFCCFF;
 }
 
-.jbrowse .fgenesh,
-.jbrowse .plus-fgenesh,
-.jbrowse .minus-fgenesh {
+ .fgenesh,
+ .plus-fgenesh,
+ .minus-fgenesh {
     height: 60%;
     top: 20%;
     background-color: #990099;
 }
-.jbrowse .fgenesh_UTR,
-.jbrowse .plus-fgenesh_UTR,
-.jbrowse .minus-fgenesh_UTR {
+ .fgenesh_UTR,
+ .plus-fgenesh_UTR,
+ .minus-fgenesh_UTR {
     height: 60%;
     top: 20%;
     background-color: #D699D6;
 }
-.jbrowse .fgenesh_CDS,
-.jbrowse .plus-fgenesh_CDS,
-.jbrowse .minus-fgenesh_CDS {
+ .fgenesh_CDS,
+ .plus-fgenesh_CDS,
+ .minus-fgenesh_CDS {
     border: 1px solid #555;
     height: 80%;
     top: 10%;
     background-color: #990099;
 }
-.jbrowse .genemark,
-.jbrowse .plus-genemark,
-.jbrowse .minus-genemark {
+ .genemark,
+ .plus-genemark,
+ .minus-genemark {
     height: 60%;
     top: 20%;
     background-color: #679B68;
 }
-.jbrowse .genemark_UTR,
-.jbrowse .plus-genemark_UTR,
-.jbrowse .minus-genemark_UTR {
+ .genemark_UTR,
+ .plus-genemark_UTR,
+ .minus-genemark_UTR {
     height: 60%;
     top: 20%;
     background-color: #527C53;
 }
-.jbrowse .genemark_CDS,
-.jbrowse .plus-genemark_CDS,
-.jbrowse .minus-genemark_CDS {
+ .genemark_CDS,
+ .plus-genemark_CDS,
+ .minus-genemark_CDS {
     border: 1px solid #555;
     height: 80%;
     top: 10%;
     background-color: #679B68;
 }
-.jbrowse .gnomon_UTR,
-.jbrowse .plus-gnomon_UTR,
-.jbrowse .minus-gnomon_UTR {
+ .gnomon_UTR,
+ .plus-gnomon_UTR,
+ .minus-gnomon_UTR {
     height: 60%;
     top: 20%;
     background-color: #DB4E00;
 }
-.jbrowse .gnomon_CDS,
-.jbrowse .plus-gnomon_CDS,
-.jbrowse .minus-gnomon_CDS {
+ .gnomon_CDS,
+ .plus-gnomon_CDS,
+ .minus-gnomon_CDS {
     height: 80%;
     top: 10%;
     border: 1px solid #555;
     background-color: #FFAA11;
 }
-.jbrowse .jamp,
-.jbrowse .plus-jamp,
-.jbrowse .minus-jamp {
+ .jamp,
+ .plus-jamp,
+ .minus-jamp {
     height: 60%;
     top: 20%;
     background-color: #993399;
 }
-.jbrowse .jamp_UTR,
-.jbrowse .plus-jamp_UTR,
-.jbrowse .minus-jamp_UTR {
+ .jamp_UTR,
+ .plus-jamp_UTR,
+ .minus-jamp_UTR {
     height: 60%;
     top: 20%;
     background-color: #CCCCFF;
 }
-.jbrowse .jamp_CDS,
-.jbrowse .plus-jamp_CDS,
-.jbrowse .minus-jamp_CDS {
+ .jamp_CDS,
+ .plus-jamp_CDS,
+ .minus-jamp_CDS {
     border: 1px solid #555;
     height: 80%;
     top: 10%;
     background-color: #993399;
 }
-.jbrowse .blastn,
-.jbrowse .plus-blastn,
-.jbrowse .minus-blastn {
+ .blastn,
+ .plus-blastn,
+ .minus-blastn {
     height: 60%;
     top: 20%;
     background-color: #996633;
 }
 
-.jbrowse .est2genome,
-.jbrowse .plus-est2genome,
-.jbrowse .minus-est2genome {
+ .est2genome,
+ .plus-est2genome,
+ .minus-est2genome {
     height: 60%;
     top: 20%;
     background-color: #FFC966;
 }
 
 
-.jbrowse .protein_domains,
-.jbrowse .plus-protein_domains,
-.jbrowse .minus-protein_domains {
+ .protein_domains,
+ .plus-protein_domains,
+ .minus-protein_domains {
     height: 60%;
     top: 20%;
     background-color: #9D336B;
 }
 
 
-.jbrowse .generic_NCBI-cds, 
-.jbrowse .plus-ogs-cds, 
-.jbrowse .jbrowse .minus-ogs-cds  {
+ .generic_NCBI-cds, 
+ .plus-ogs-cds, 
+  .minus-ogs-cds  {
     background-color: #444444;
     border: 1px solid #555;
     height: 80%;
     top: 10%;
 }
 
-.jbrowse .generic_NCBI-utr, 
-.jbrowse .plus-ogs-utr,
-.jbrowse .five_prime_utr, 
-.jbrowse .plus-five_prime_utr, 
-.jbrowse .minus-five_prime_utr,
-.jbrowse .three_prime_utr, 
-.jbrowse .plus-three_prime_utr, 
-.jbrowse .minus-three_prime_utr,
-.jbrowse .minus-ogs-utr {
+ .generic_NCBI-utr, 
+ .plus-ogs-utr,
+ .five_prime_utr, 
+ .plus-five_prime_utr, 
+ .minus-five_prime_utr,
+ .three_prime_utr, 
+ .plus-three_prime_utr, 
+ .minus-three_prime_utr,
+ .minus-ogs-utr {
     height: 60%;
     top: 20%;
     background-color: #777777;

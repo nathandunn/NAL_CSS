@@ -1,0 +1,374 @@
+.jbrowse .Apollo .stop-codon-read-through,
+.jbrowse .Apollo .plus-stop-codon-read-through,
+.jbrowse .Apollo .minus-stop-codon-read-through,
+.jbrowse .Apollo .red-100pct,
+.jbrowse .Apollo .plus-red-100pct,
+.jbrowse .Apollo .minus-red-100pct  {
+    background-color: #FF0000;
+    border: 1px solid #FF0000;
+    height: 100%;
+    top: 0%;
+}
+
+.jbrowse .Apollo .gold-80pct, 
+.jbrowse .Apollo .plus-gold-80pct, 
+.jbrowse .Apollo .minus-gold-80pct  {
+    background-color: #FFD700;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .goldenrod-60pct, 
+.jbrowse .Apollo .plus-goldenrod-60pct, 
+.jbrowse .Apollo .minus-goldenrod-60pct {
+    height: 60%;
+    top: 20%;
+    background-color: #DAA520;
+}
+
+.jbrowse .Apollo .blast-match_part,
+.jbrowse .Apollo .plus-blast-match_part,
+.jbrowse .Apollo .minus-blast-match_part {
+    height: 40%;
+    top: 30%;
+    background-color: blue;
+}
+
+
+.jbrowse .Apollo .blast-hit-20pct  {
+    background-color: blue;
+    min-width: 1px;
+    width: 100%;
+    height: 20%;
+    top: 40%;
+}
+
+
+.jbrowse .Apollo .ogs-cds, 
+.jbrowse .Apollo .plus-ogs-cds, 
+.jbrowse .Apollo .minus-ogs-cds  {
+    background-color: #FFD700;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .ogs-utr, 
+.jbrowse .Apollo .plus-ogs-utr,
+.jbrowse .Apollo .five_prime_utr, 
+.jbrowse .Apollo .plus-five_prime_utr, 
+.jbrowse .Apollo .minus-five_prime_utr,
+.jbrowse .Apollo .three_prime_utr, 
+.jbrowse .Apollo .plus-three_prime_utr, 
+.jbrowse .Apollo .minus-three_prime_utr,
+.jbrowse .Apollo .minus-ogs-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #DAA520;
+}
+
+.jbrowse .Apollo .junction-cds, 
+.jbrowse .Apollo .plus-junction-cds, 
+.jbrowse .Apollo .minus-junction-cds  {
+    background-color: #A921AD;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+.jbrowse .Apollo .primary_gene_set-cds, 
+.jbrowse .Apollo .plus-primary_gene_set-cds, 
+.jbrowse .Apollo .minus-primary_gene_set-cds  {
+    background-color: #21D61F;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .primary_gene_set-utr, 
+.jbrowse .Apollo .plus-primary_gene_set-utr, 
+.jbrowse .Apollo .minus-primary_gene_set-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #8DB890;
+}
+
+.jbrowse .Apollo .deprecated_gene_set-cds, 
+.jbrowse .Apollo .plus-deprecated_gene_set-cds, 
+.jbrowse .Apollo .minus-deprecated_gene_set-cds  {
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+    background-color: #927447;
+}
+
+.jbrowse .Apollo .deprecated_gene_set-utr, 
+.jbrowse .Apollo .plus-deprecated_gene_set-utr, 
+.jbrowse .Apollo .minus-deprecated_gene_set-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #D1A666;
+}
+
+.jbrowse .Apollo .transcriptome-cds,
+.jbrowse .Apollo .plus-transcriptome-cds,
+.jbrowse .Apollo .minus-transcriptome-cds  {
+    background-color: #00BFFF;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .transcriptome-utr,
+.jbrowse .Apollo .plus-transcriptome-utr,
+.jbrowse .Apollo .minus-transcriptome-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #0086B3;
+}
+
+.jbrowse .Apollo .transcriptome-match_part,
+.jbrowse .Apollo .plus-transcriptome-match_part,
+.jbrowse .Apollo .minus-transcriptome-match_part {
+    height: 60%;
+    top: 20%;
+    background-color: #00BFFF;
+}
+
+
+
+.jbrowse .Apollo .blastx, 
+.jbrowse .Apollo .plus-blastx, 
+.jbrowse .Apollo .minus-blastx {
+    height: 60%;
+    top: 20%;
+    background-color: #A0522D;
+}
+.jbrowse .Apollo .protein2genome, 
+.jbrowse .Apollo .plus-protein2genome, 
+.jbrowse .Apollo .minus-protein2genome {
+    height: 60%;
+    top: 20%;
+    background-color: #FFA500;
+}
+.jbrowse .Apollo .repeat, 
+.jbrowse .Apollo .plus-repeat, 
+.jbrowse .Apollo .minus-repeat {
+    height: 60%;
+    top: 20%;
+    background-color: #FF0000;
+}
+.jbrowse .Apollo .est_gff,
+.jbrowse .Apollo .plus-est_gff,
+.jbrowse .Apollo .minus-est_gff,
+.jbrowse .Apollo .est-gff,
+.jbrowse .Apollo .plus-est-gff,
+.jbrowse .Apollo .minus-est-gff,
+.jbrowse .Apollo .est,
+.jbrowse .Apollo .plus-est, 
+.jbrowse .Apollo .minus-est {
+    height: 60%;
+    top: 20%;
+    background-color: #00bfff;
+}
+
+
+.jbrowse .Apollo .cegma,
+.jbrowse .Apollo .plus-cegma,
+.jbrowse .Apollo .minus-cegma {
+    height: 60%;
+    top: 20%;
+    background-color: #99CC00
+}
+
+.jbrowse .Apollo .alt_gene_set-cds,
+.jbrowse .Apollo .plus-alt_gene_set-cds,
+.jbrowse .Apollo .minus-alt_gene_set-cds  {
+    background-color: #DA70D6 ;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .alt_gene_set-utr,
+.jbrowse .Apollo .plus-alt_gene_set-utr,
+.jbrowse .Apollo .minus-alt_gene_set-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #8B008B;
+}
+
+.jbrowse .Apollo .snap,
+.jbrowse .Apollo .plus-snap,
+.jbrowse .Apollo .minus-snap {
+    height: 60%;
+    top: 20%;
+    background-color: #99FFCC;
+}
+.jbrowse .Apollo .snap_UTR,
+.jbrowse .Apollo .plus-snap_UTR,
+.jbrowse .Apollo .minus-snap_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #00CC66;
+}
+.jbrowse .Apollo .snap_CDS,
+.jbrowse .Apollo .plus-snap_CDS,
+.jbrowse .Apollo .minus-snap_CDS {
+     height: 80%;
+    border: 1px solid #555;
+    top: 10%;
+    background-color: #99FFCC;
+}
+.jbrowse .Apollo .augustus,
+.jbrowse .Apollo .plus-augustus,
+.jbrowse .Apollo .minus-augustus {
+    height: 60%;
+    top: 20%;
+    background-color: #FFCCFF;
+}
+.jbrowse .Apollo .augustus_UTR,
+.jbrowse .Apollo .plus-augustus_UTR,
+.jbrowse .Apollo .minus-augustus_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #FF00FF;
+}
+.jbrowse .Apollo .augustus_CDS,
+.jbrowse .Apollo .plus-augustus_CDS,
+.jbrowse .Apollo .minus-augustus_CDS {
+    height: 80%;
+    top: 10%;
+    border: 1px solid #555;
+    background-color: #FFCCFF;
+}
+
+.jbrowse .Apollo .fgenesh,
+.jbrowse .Apollo .plus-fgenesh,
+.jbrowse .Apollo .minus-fgenesh {
+    height: 60%;
+    top: 20%;
+    background-color: #990099;
+}
+.jbrowse .Apollo .fgenesh_UTR,
+.jbrowse .Apollo .plus-fgenesh_UTR,
+.jbrowse .Apollo .minus-fgenesh_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #D699D6;
+}
+.jbrowse .Apollo .fgenesh_CDS,
+.jbrowse .Apollo .plus-fgenesh_CDS,
+.jbrowse .Apollo .minus-fgenesh_CDS {
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+    background-color: #990099;
+}
+.jbrowse .Apollo .genemark,
+.jbrowse .Apollo .plus-genemark,
+.jbrowse .Apollo .minus-genemark {
+    height: 60%;
+    top: 20%;
+    background-color: #679B68;
+}
+.jbrowse .Apollo .genemark_UTR,
+.jbrowse .Apollo .plus-genemark_UTR,
+.jbrowse .Apollo .minus-genemark_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #527C53;
+}
+.jbrowse .Apollo .genemark_CDS,
+.jbrowse .Apollo .plus-genemark_CDS,
+.jbrowse .Apollo .minus-genemark_CDS {
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+    background-color: #679B68;
+}
+.jbrowse .Apollo .gnomon_UTR,
+.jbrowse .Apollo .plus-gnomon_UTR,
+.jbrowse .Apollo .minus-gnomon_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #DB4E00;
+}
+.jbrowse .Apollo .gnomon_CDS,
+.jbrowse .Apollo .plus-gnomon_CDS,
+.jbrowse .Apollo .minus-gnomon_CDS {
+    height: 80%;
+    top: 10%;
+    border: 1px solid #555;
+    background-color: #FFAA11;
+}
+.jbrowse .Apollo .jamp,
+.jbrowse .Apollo .plus-jamp,
+.jbrowse .Apollo .minus-jamp {
+    height: 60%;
+    top: 20%;
+    background-color: #993399;
+}
+.jbrowse .Apollo .jamp_UTR,
+.jbrowse .Apollo .plus-jamp_UTR,
+.jbrowse .Apollo .minus-jamp_UTR {
+    height: 60%;
+    top: 20%;
+    background-color: #CCCCFF;
+}
+.jbrowse .Apollo .jamp_CDS,
+.jbrowse .Apollo .plus-jamp_CDS,
+.jbrowse .Apollo .minus-jamp_CDS {
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+    background-color: #993399;
+}
+.jbrowse .Apollo .blastn,
+.jbrowse .Apollo .plus-blastn,
+.jbrowse .Apollo .minus-blastn {
+    height: 60%;
+    top: 20%;
+    background-color: #996633;
+}
+
+.jbrowse .Apollo .est2genome,
+.jbrowse .Apollo .plus-est2genome,
+.jbrowse .Apollo .minus-est2genome {
+    height: 60%;
+    top: 20%;
+    background-color: #FFC966;
+}
+
+
+.jbrowse .Apollo .protein_domains,
+.jbrowse .Apollo .plus-protein_domains,
+.jbrowse .Apollo .minus-protein_domains {
+    height: 60%;
+    top: 20%;
+    background-color: #9D336B;
+}
+
+
+.jbrowse .Apollo .generic_NCBI-cds, 
+.jbrowse .Apollo .plus-ogs-cds, 
+.jbrowse .Apollo .jbrowse .Apollo .minus-ogs-cds  {
+    background-color: #444444;
+    border: 1px solid #555;
+    height: 80%;
+    top: 10%;
+}
+
+.jbrowse .Apollo .generic_NCBI-utr, 
+.jbrowse .Apollo .plus-ogs-utr,
+.jbrowse .Apollo .five_prime_utr, 
+.jbrowse .Apollo .plus-five_prime_utr, 
+.jbrowse .Apollo .minus-five_prime_utr,
+.jbrowse .Apollo .three_prime_utr, 
+.jbrowse .Apollo .plus-three_prime_utr, 
+.jbrowse .Apollo .minus-three_prime_utr,
+.jbrowse .Apollo .minus-ogs-utr {
+    height: 60%;
+    top: 20%;
+    background-color: #777777;
+}
